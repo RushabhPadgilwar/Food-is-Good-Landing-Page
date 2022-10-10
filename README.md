@@ -1,2 +1,5 @@
 # Food-is-Good-Landing-Page
-It is the landing page of "Food is Good" restaurant page.
+
+It was the landing page of "Food is Good" restaurant page.
+It was designed with HTML and CSS only.
+It was my first project. 
